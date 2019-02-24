@@ -1,5 +1,5 @@
 # EmployeePaySlip
-This is a implementation of MYOB Code test applications
+This is an implementation of MYOB Coding test applications
 
 # RUN
 This is an aspnet core web application created in Visual Studio 2017 Community. 
